@@ -23,8 +23,8 @@ function Nav() {
             />
             <img 
                 className="nav__avatar"
-                src='src\0ddccae723d85a703b798a5e682c23c1.jpg'
-                alt="Netflix Logo"
+                src='https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png'
+                alt="Avatar"
             />
             
         </div>
