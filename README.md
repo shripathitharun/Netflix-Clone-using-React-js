@@ -1,6 +1,6 @@
 # Getting Started with Create React App
-# This project is deployed on Netflify
-https://vibrant-almeida-080dcc.netlify.app/
+# This project is deployed on Netflify https://vibrant-almeida-080dcc.netlify.app/
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
